@@ -1,5 +1,15 @@
 <h2> Olá, sou Thales!</h2>
-<p><em>Estudando Gestão de TI em <a href="http://www.unip.br">Universidade Paulista</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desenvolvedor de Software <a href="https://www.bliteti.com.br/">Blite</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>
+  <em>
+    Formado em Análise e Desenvolvimento de Sistemas em 
+    <a href="http://www.unip.br">Universidade Paulista</a>
+    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+    Estudando Gestão de TI em 
+    <a href="http://www.unip.br">Universidade Paulista</a>
+    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+    Desenvolvedor de Software 
+    <a href="https://www.bliteti.com.br/">Blite</a>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: thalesdeveloper](https://img.shields.io/twitter/follow/thalesdeveloper?style=social)](https://twitter.com/thalesdeveloper)
