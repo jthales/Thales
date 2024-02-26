@@ -1,8 +1,8 @@
 <h2> Olá, sou Thales!</h2>
 <p>
   <em>
-    Formado em Análise e Desenvolvimento de Sistemas em <a href="http://www.unip.br">Universidade Paulista</a>
-    Estudando Gestão de TI em <a href="http://www.unip.br">Universidade Paulista</a>
+    Formado em Análise e Desenvolvimento de Sistemas em <a href="http://www.unip.br">Universidade Paulista</a><br/>
+    Estudando Gestão de TI em <a href="http://www.unip.br">Universidade Paulista</a><br/>
     Desenvolvedor de Software <a href="https://www.bliteti.com.br/">Blite</a>
   </em>
 </p>
